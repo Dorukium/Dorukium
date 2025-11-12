@@ -9,6 +9,13 @@
 
 ---
 
+<!-- 1) ŞU AN NE YAPIYORUM -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00C2FF&width=435&lines=🎮+MadalyonMC+eklentileri+yazıyor;☕+PHP+↔+C#+entegrasyonu+kuruyor;📖+Clean+Code+okuyor;🎧+Lo-fi+dinleyip+kod+uzaklaştırıyor" alt="Typing" />
+</p>
+
+---
+
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
   > Web sitesi şu anda aktif değil: [madalyonmc.xyz](https://madalyonmc.xyz)  
@@ -34,26 +41,44 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorukersoy&layout=compact&theme=github_dark&hide_title=true&langs_count=6" height="140"/>
 </p>
 
----
-
-### 📂 Öne Çıkanlar
-| 🧩 Proje | 📜 Açıklama |
-|-----------|-------------|
-| **MadalyonMC** | Türkiye’nin özgün MMORPG sunucusu. Şu anda geliştirme aşamasında. |
-| **Minecraft Pluginleri** | Sunucu sistemleri ve oyun içi mekanikler üzerine özel geliştirmeler. |
+<!-- 4) KATKI HARİTASI -->
+### 🔥 Katkı Haritası
+![Doruk’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dorukersoy&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&area_color=1C2128)
 
 ---
 
-### 🌐 Ulaşım
+<!-- 3) ÖNE ÇIKAN REPOLAR -->
+### 🔥 Göz At
 <p align="center">
-  <a href="mailto:dorukium@email.com">
-    <img src="https://img.shields.io/badge/Email-dorukium%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/dorukersoy/MadalyonMC-Core">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorukersoy&repo=MadalyonMC-Core&theme=github_dark" />
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/Dorukium">
-    <img src="https://img.shields.io/badge/Discord-Dorukium-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://github.com/dorukersoy/LobbyPlus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dorukersoy&repo=LobbyPlus&theme=github_dark" />
   </a>
 </p>
+
+---
+
+<!-- DÜZENLENMİŞ ÖNE ÇIKANLAR -->
+### 📂 Öne Çıkanlar
+<ul>
+  <li><b>MadalyonMC</b> – Türkiye’nin özgün MMORPG sunucusu. Şu anda geliştirme aşamasında.</li>
+  <li><b>Minecraft Pluginleri</b> – Sunucu sistemleri ve oyun-içi mekanikler üzerine özel geliştirmeler.</li>
+</ul>
+
+---
+
+<!-- DÜZENLENMİŞ İLETİŞİM -->
+### 🌐 Ulaşım
+<div align="center">
+  <a href="mailto:dorukium@email.com">
+    <img src="https://img.shields.io/badge/Gmail-dorukium%40email.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/Dorukium">
+    <img src="https://img.shields.io/badge/Discord-Dorukium-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+</div>
 
 ---
 
