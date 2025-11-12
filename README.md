@@ -1,7 +1,7 @@
 <!-- DORUKIUM GITHUB PROFIL README -->
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 120px; color: #00FF41; margin-top: 120px;">
-  Dorukium
+<p align="center">
+  <img src="https://via.placeholder.com/600x100/000000/00FF41?text=Dorukium" alt="Dorukium" />
 </p>
 
 <p align="center">
