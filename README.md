@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <em>Yazılım geliştirmeyi, fikirleri kodla hayata geçirmeyi seven bir geliştiriciyim.</em><br>
-  <em>Sade, işlevli ve anlaşılır sistemler kurmaktan hoşlanırım.</em>
+  <em>Fikirleri kodla hayata geçirmeyi seven bir geliştiriciyim.</em><br>
+  <em>Sade, işlevli ve anlaşılır kodlama yapıyorum.</em>
 </p>
 
 ---
@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <sub>🩶 Basit şeyler doğru çalıştığında, karmaşık sistemler kendiliğinden ilerler.</sub>
+  <sub>🩶 Bütün ümidim gençliktedir. 🩶</sub>
 </p>
