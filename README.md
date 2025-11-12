@@ -1,7 +1,7 @@
 <!-- DORUKIUM GITHUB PROFIL README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=800&color=1F2328&width=435&lines=Dorukium" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=500&color=00FF41&width=435&lines=Dorukium" alt="Dorukium" />
 </p>
 
 <p align="center">
