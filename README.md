@@ -1,7 +1,7 @@
 <!-- DORUKIUM GITHUB PROFIL README -->
 
-<p style="margin-left: 450px;"> <!-- buradaki 100px ile sağa kaydırıyoruz -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=500&color=00FF41&width=435&lines=Dorukium" alt="Dorukium" />
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 48px; color: #00FF41; margin-top: 20px;">
+  Dorukium
 </p>
 
 <p align="center">
