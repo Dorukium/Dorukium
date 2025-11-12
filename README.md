@@ -1,6 +1,6 @@
 <!-- DORUKIUM GITHUB PROFIL README -->
 
-<p align="center" style="margin-left: 10%;">
+<p align="center" style="margin-left: 25%;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=500&color=00FF41&width=435&lines=Dorukium" alt="Dorukium" />
 </p>
 
