@@ -1,21 +1,12 @@
 <!-- DORUKIUM GITHUB PROFIL README -->
 
-<h1 align="center">👋 Merhaba, ben Doruk</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=800&color=00C2FF&width=435&lines=Merhaba,+ben+Doruk" alt="Typing" />
+</p>
 
 <p align="center">
   <em>Yazılım geliştirmeyi, fikirleri kodla hayata geçirmeyi seven bir geliştiriciyim.</em><br>
   <em>Sade, işlevli ve anlaşılır sistemler kurmaktan hoşlanırım.</em>
-</p>
-
----
-
-<!-- Steam + GitHub typing birleşik satır -->
-<p align="center">
-  <!-- Steam oyun durumu (çevrimiçyse oyun adı, yoksa "Boşta") -->
-  <img src="https://steam-now.demolab.com/?user=Dorukium&theme=dark" alt="Steam" />
-  <br><br>
-  <!-- GitHub kullanıcı adı typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&width=435&lines=Dorukium" alt="Typing" />
 </p>
 
 ---
@@ -36,14 +27,25 @@
 ---
 
 ### 📊 İstatistikler
+<!-- Üst-orta: contributions + streaks -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dorukium&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dorukium&theme=github-dark&hide_border=true" height="150"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-29-00C2FF?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current%20Streak-2-00C2FF?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-2-00C2FF?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorukium&layout=compact&theme=github_dark&hide_title=true&langs_count=6" height="140"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <!-- Sol: Total Stars / Commits / PRs / Issues -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Dorukium&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=Total%20Stats" />
+    </td>
+    <td width="50%">
+      <!-- Sağ: Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorukium&layout=compact&theme=github_dark&hide_title=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
 ---
 
