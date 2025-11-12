@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <sub>🩶 Bütün ümidim gençliktedir. 🩶</sub>
+  <sub>🩶 Bütün ümidim gençliktedir 🩶</sub>
 </p>
