@@ -1,8 +1,8 @@
 <!-- DORUKIUM GITHUB PROFIL README -->
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x100/000000/00FF41?text=Dorukium" alt="Dorukium" />
-</p>
+<h1 align="center" style="font-family: 'Fira Code', monospace; color:#00FF41;">
+  Dorukium
+</h1>
 
 <p align="center">
   <em>Yazılım geliştirmeyi, fikirleri kodla hayata geçirmeyi seven bir geliştiriciyim.</em><br>
