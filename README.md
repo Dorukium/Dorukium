@@ -14,7 +14,7 @@
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
   > Web sitesi şu anda aktif değil: [madalyonmc.xyz](https://madalyonmc.xyz)  
-- ☕ Genellikle **PHP**, **C#**, **React**, **HTML/CSS** ve **Java** ile projeler geliştiriyorum.  
+- ☕ Genellikle **PHP**, **C#**, **React**, **Python** **HTML/CSS** ve **Java** ile projeler geliştiriyorum.  
 - 📂 Basit fikirleri kodla şekillendirmeyi seviyorum.
 
 ---
