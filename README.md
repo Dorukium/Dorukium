@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+                                         (https://www.imdb.com/title/tt8310172/mediaviewer/rm3989081857/)
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
   > Web sitesi şu anda aktif değil: [madalyonmc.xyz](https://madalyonmc.xyz)  
