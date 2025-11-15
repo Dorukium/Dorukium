@@ -10,7 +10,7 @@
 </p>
 
 ---
-                                     ![Göktürk](gokturk.jpg)
+                                     (gokturk.jpg)
 
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
