@@ -10,7 +10,7 @@
 </p>
 
 ---
-                                         (https://www.imdb.com/title/tt8310172/mediaviewer/rm3989081857/)
+                                         ([https://www.imdb.com/title/tt8310172/mediaviewer/rm3989081857/](https://github.com/Dorukium/photo/blob/main/MV5BZTcxZGViYmYtYWNmNy00MzliLTgwOGQtMzE3ZGMwYjdhM2YyXkEyXkFqcGc%40._V1_QL75_UX776_.jpg))
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
   > Web sitesi şu anda aktif değil: [madalyonmc.xyz](https://madalyonmc.xyz)  
