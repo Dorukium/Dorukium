@@ -10,7 +10,7 @@
 </p>
 
 ---
-                                         (https://raw.githubusercontent.com/Dorukium/photo/refs/heads/main/MV5BZTcxZGViYmYtYWNmNy00MzliLTgwOGQtMzE3ZGMwYjdhM2YyXkEyXkFqcGc%40._V1_QL75_UX776_.jpg)
+                                         https://raw.githubusercontent.com/Dorukium/photo/refs/heads/main/MV5BZTcxZGViYmYtYWNmNy00MzliLTgwOGQtMzE3ZGMwYjdhM2YyXkEyXkFqcGc%40._V1_QL75_UX776_.jpg
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
   > Web sitesi şu anda aktif değil: [madalyonmc.xyz](https://madalyonmc.xyz)  
