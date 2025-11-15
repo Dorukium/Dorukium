@@ -10,7 +10,7 @@
 </p>
 
 ---
-                                         ![Açıklama](https://raw.githubusercontent.com/Dorukium/photo/main/MV5BZTcxZGViYmYtYWNmNy00MzliLTgwOGQtMzE3ZGMwYjdhM2YyXkEyXkFqcGc%40._V1_QL75_UX776_.jpg)
+                                        ![Göktürk](https://raw.githubusercontent.com/Dorukium/photo/main/gokturk.jpg)
 
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
