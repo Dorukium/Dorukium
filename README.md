@@ -10,7 +10,9 @@
 </p>
 
 ---
-(https://raw.githubusercontent.com/Dorukium/photo/main/gokturk.jpg)
+<p align="center">
+  <img src="(https://raw.githubusercontent.com/Dorukium/photo/main/gokturk.jpg)" alt="Göktürk" width="300">
+</p>
 
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
