@@ -10,7 +10,7 @@
 </p>
 
 ---
- (gokturk.jpg)
+![Göktürk](https://raw.githubusercontent.com/Dorukium/photo/main/gokturk.jpg)
 
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
