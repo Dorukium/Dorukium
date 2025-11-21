@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dorukium/photo/main/gokturk1.png" alt="Göktürk 1" width="520">
+  <img src="https://github.com/Dorukium/Dorukium/blob/0027a5fc98e7d39e6d5f6afa9a7ce37f4a04ce41/gokturk1.png" alt="Göktürk 1" width="520">
 </p>
 
 ### 💡 Hakkımda
