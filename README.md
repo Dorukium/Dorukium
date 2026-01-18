@@ -45,7 +45,7 @@
 ### 🔍 Göz At
 <p align="center">
   <a href="https://github.com/Dorukium/MadalyonMC-Client">
-    <img align="center" src="https://github.com/Leralix/Towns-and-Nations&repo=MadalyonMC-Client&theme=github_dark" />
+    <img align="center" src="https://github.com/Leralix/Towns-and-Nations" />
   </a>
   <a href="https://github.com/Dorukium/Kleinanzeigen-App">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dorukium&repo=kleinanzeigen-app&theme=github_dark" />
