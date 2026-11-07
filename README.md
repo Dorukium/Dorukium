@@ -17,8 +17,8 @@
 ### 💡 Hakkımda
 - 🎮 Şu anda **MadalyonMC** projesi üzerinde çalışıyorum.  
   > Web sitesi şu anda aktif değil: [madalyonmc.com](https://madalyonmc.com)  
-- ☕ Genellikle **PHP**, **C#**, **React**, **Python** **HTML/CSS** ve **Java** ile projeler geliştiriyorum.  
-- 📂 Basit fikirleri kodla şekillendirmeyi seviyorum.
+- ☕ Genellikle **PHP**, **React**, **HTML/CSS** ve **Java** ile projeler geliştiriyorum.  
+- 📂 Basit fikirleri projelere dönüştürmeyi seviyorum.
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### 📂 Öne Çıkanlar
 <ul>
-  <li><b>MadalyonMC</b> – Türkiye’nin özgün MMORPG sunucusu. Şu anda geliştirme aşamasında.</li>
+  <li><b>MadalyonMC</b> – Türkiye’nin ilk ve tek özgün MMORPG sunucusu. Şu anda geliştirme aşamasında.</li>
   <li><b>Minecraft Pluginleri</b> – Sunucu sistemleri ve oyun-içi mekanikler üzerine özel geliştirmeler.</li>
 </ul>
 
